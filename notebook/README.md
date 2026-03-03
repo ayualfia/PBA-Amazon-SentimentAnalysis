@@ -1,1 +1,1 @@
-
+[Open in Colab](https://colab.research.google.com/github/ayualfia/PBA-KlikIndomaret-SentimentAnalysis/blob/2865a83d77ef353ea5c0d2e04fc75a55b07ba5d4/notebook/Ayu_Alfia_Putri_PBA__nltk_gutenberg_%26_indonlu_smsa.ipynb)
