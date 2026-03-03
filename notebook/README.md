@@ -1,1 +1,1 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ayualfia/PBA-KlikIndomaret-SentimentAnalysis/blob/main/notebook/Ayu_Alfia_Putri_PBA__nltk_gutenberg_%26_indonlu_smsa.ipynb)
+
