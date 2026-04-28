@@ -49,7 +49,7 @@ PBA-Amazon-SentimentAnalysis/
 │       └── amazon_bow_tfidf_summary.xlsx
 │
 ├── notebook/
-│   ├── week2_amazon_shopping_reviews_scrapping.ipynb
+│   ├── week2_amazonshopping_reviews_scrapping.ipynb
 │   ├── week3_amazonshopping_review_preprocessing.ipynb
 │   ├── week3_amazonshopping_review_sentiment.ipynb
 │   ├── week4_amazonshopping_review_BoW_TF_IDF.ipynb
